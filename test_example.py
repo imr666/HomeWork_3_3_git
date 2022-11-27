@@ -1,2 +1,2 @@
 def test_ex():
-    assert 3>2
+    assert 3>1
